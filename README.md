@@ -54,22 +54,135 @@ Contributions are welcome! Please check the [contribution guidelines](#contribut
 
 ## 2. Geographic Coverage and Spatial Analysis Tools
 
+### 2.1. Mapping and Visualization
+
+| Tool Name     | Description                            | Programming language | Available | Open Source? | Links |
+|:--------------|:---------------------------------------|:---------------------|:----------|:-------------|:------|
+
+
+
+### 2.2. Spatial Analysis
+
+| Tool Name     | Description                            | Programming language | Available | Open Source? | Links |
+|:--------------|:---------------------------------------|:---------------------|:----------|:-------------|:------|
+
+
+
+
+
 
 ## 3. Taxonomic Tools and Databases
+
+### 3.1. Species Classification and Identification
+
+| Tool Name     | Description                            | Programming language | Available | Open Source? | Links |
+|:--------------|:---------------------------------------|:---------------------|:----------|:-------------|:------|
+
+
+
+### 3.2. Deep Learning for Classification
+
+| Tool Name     | Description                            | Programming language | Available | Open Source? | Links |
+|:--------------|:---------------------------------------|:---------------------|:----------|:-------------|:------|
+
+
 
 
 
 ## 4. Ecological Data Analysis Tools
 
+### 4.1. Biodiversity Analysis
+
+| Tool Name     | Description                            | Programming language | Available | Open Source? | Links |
+|:--------------|:---------------------------------------|:---------------------|:----------|:-------------|:------|
+
+
+
+### 4.2. Ecological Modeling
+
+| Tool Name     | Description                            | Programming language | Available | Open Source? | Links |
+|:--------------|:---------------------------------------|:---------------------|:----------|:-------------|:------|
+
+
+
+
+
 ## 5. Annotation and Tracking Tools
+
+### 5.1. Annotation Tools
+
+| Tool Name     | Description                            | Programming language | Available | Open Source? | Links |
+|:--------------|:---------------------------------------|:---------------------|:----------|:-------------|:------|
+
+
+
+
+### 5.2. Tracking and Monitoring
+
+| Tool Name     | Description                            | Programming language | Available | Open Source? | Links |
+|:--------------|:---------------------------------------|:---------------------|:----------|:-------------|:------|
+
+
+
 
 ## 6. Visualization Tools
 
+### 6.1. Graphic Tools and Visualization
+
+| Tool Name     | Description                            | Programming language | Available | Open Source? | Links |
+|:--------------|:---------------------------------------|:---------------------|:----------|:-------------|:------|
+
+
+
+
+### 6.2. Interactive Tools
+
+| Tool Name     | Description                            | Programming language | Available | Open Source? | Links |
+|:--------------|:---------------------------------------|:---------------------|:----------|:-------------|:------|
+
+
+
+
 ## 7. AI and Helper Tools
+
+### 7.1. Language Models
+
+| Tool Name     | Description                            | Programming language | Available | Open Source? | Links |
+|:--------------|:---------------------------------------|:---------------------|:----------|:-------------|:------|
+
+
+
+
+
+
 
 ## 8. Computer Vision
 
+### 8.1. Object Detection Models
+
+| Tool Name     | Description                            | Programming language | Available | Open Source? | Links |
+|:--------------|:---------------------------------------|:---------------------|:----------|:-------------|:------|
+
+
+
+### 8.2. Identification Systems
+
+| Tool Name     | Description                            | Programming language | Available | Open Source? | Links |
+|:--------------|:---------------------------------------|:---------------------|:----------|:-------------|:------|
+
+
+
+
+
 ## 9. Literature and Knowledge Sources
+
+### 9.1. Published papers
+
+| Tool Name     | Description                            | Programming language | Available | Open Source? | Links |
+|:--------------|:---------------------------------------|:---------------------|:----------|:-------------|:------|
+| Paper: From buzzes to bytes | A review of available models for insect acoustic data. A tool to help select an appropriate model to analyse your data. | N/A | Yes | Open Access | [paper](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14630) |
+
+
 
 ## Contributing
 
