@@ -48,8 +48,12 @@ Contributions are welcome! Please check the [contribution guidelines](#contribut
 
 | Tool Name     | Description                            | Programming language | Available | Open Source? | Links |
 |:--------------|:---------------------------------------|:---------------------|:----------|:-------------|:------|
-
-
+| tidyverse | R package. Comprehensive toolkit for data manipulation tasks in R. | R | Yes | Open Source | [website](https://www.tidyverse.org/) |
+| Pandas | Python library. Pandas, a powerful Python library for data manipulation and analysis, is a crowd favorite. | Python |  Yes | Open Source | [website](https://pandas.pydata.org/) |
+| MATLAB Signal Processing Toolbox | Signal Processing Toolbox provides functions and apps to manage, analyze, preprocess, and extract features from uniformly and nonuniformly sampled signals. The toolbox includes tools for filter design and analysis, resampling, smoothing, detrending, and power spectrum estimation. | MATLAB |  Yes | Commercial | [website](https://www.mathworks.com/products/signal.html) |
+| SQLite | SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. | C | Yes | Open Source | [website](https://sqlite.org/) |
+| summarytools | R package. provides a coherent set of functions centered on data exploration and simple reportingprovides a coherent set of functions centered on data exploration and simple reporting. | R | Yes | Open Source | [github](https://github.com/dcomtois/summarytools) |
+| visdat | R package. vis_dat helps you visualise a dataframe and “get a look at the data” by displaying the variable classes in a dataframe as a plot with vis_dat, and getting a brief look into missing data patterns using vis_miss. | R | Yes | Open Source | [github](https://github.com/ropensci/visdat) |
 
 
 ## 2. Geographic Coverage and Spatial Analysis Tools
@@ -58,6 +62,9 @@ Contributions are welcome! Please check the [contribution guidelines](#contribut
 
 | Tool Name     | Description                            | Programming language | Available | Open Source? | Links |
 |:--------------|:---------------------------------------|:---------------------|:----------|:-------------|:------|
+| Leaflet | Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps. | API/JavaScript/R | Yes | Open Source | [website](https://leafletjs.com/) |
+| Google Earth Engine | A cloud-based platform that allows you to extract remote sensing-based environmental variables—such as NDVI, land-use, latitude etc around your sampling points. | JavaScript/Python | Yes | Freeware | [website](https://earthengine.google.com/) |
+| exploratory.io| Exploratory Desktop provides a Simple and Easy-to-Use UI experience to access various data sources, clean and transform data, visualize and analyze data to gain deeper insights, communicate your discoveries with Notes, and monitor your business metrics with Dashboards. | Desktop app | Variable | Free for academic use | [website](https://exploratory.io/) |
 
 
 
@@ -187,7 +194,9 @@ Contributions are welcome! Please check the [contribution guidelines](#contribut
 ## Contributing
 
 Contributions are welcome!  
+
 Please:
+
 1. Check for duplicates before adding a new entry.  
 2. Follow the table format above.  
 3. Include DOIs, GitHub links, and dataset sources if available.  
