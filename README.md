@@ -4,6 +4,8 @@ A curated list of available tools for the exploration and analysis of biodiversi
 
 Contributions are welcome! Please check the [contribution guidelines](#contributing) below.
 
+See also [Awesome InsectAI](https://github.com/InsectAI-COST-Action/awesome-insectai) for a curated list of papers, datasets, code, and pretrained models related to insect detection, classification, and monitoring using AI and deep learning.!
+
 ## Table of Contents
 - [1. Data Cleaning and Processing Tools](#data-cleaning-and-processing-tools)
 - [2. Geographic Coverage and Spatial Analysis Tools](#geographic-coverage-and-spatial-analysis-tools)
