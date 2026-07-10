@@ -160,6 +160,8 @@ Each tool has a **Tags** column indicating its main area of use. A tool may carr
 | CVAT | CV | Open data annotation platform. Image or Video Annotation Tool. | Online app | Yes | Open Source | [website](https://www.cvat.ai/) | 
 | labelstud.io | CV | A flexible data labeling platform to fine-tune LLMs, prepare training data, or evaluate AI models. | App | Yes | Open Source | [website](https://labelstud.io/) |
 | DeepLabCut | CV | DeepLabCut™ is an efficient method for 2D and 3D markerless pose estimation based on transfer learning with deep neural networks that achieves excellent results (i.e. you can match human labeling accuracy) with minimal training data (typically 50-200 frames). | Python | Yes | Open Source | [website](https://www.mackenziemathislab.org/deeplabcut) |
+| BIIGLE | CV | BIIGLE is a web service for the efficient and rapid annotation of still images and videos. It was built for marine environmental monitoring and exploration but can be used for any image and video annotation task. | Online platform | Yes | Open Source | [website](https://biigle.de) [github](https://github.com/biigle) |
+
 
 
 
