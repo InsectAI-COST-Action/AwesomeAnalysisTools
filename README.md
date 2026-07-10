@@ -141,6 +141,7 @@ See also [Awesome InsectAI](https://github.com/InsectAI-COST-Action/awesome-inse
 | CVAT | Open data annotation platform. Image or Video Annotation Tool. | Online app | Yes | Open Source | [website](https://www.cvat.ai/) | 
 | labelstud.io | A flexible data labeling platform to fine-tune LLMs, prepare training data, or evaluate AI models. | App | Yes | Open Source | [website](labelstud.io) |
 | DeepLabCut | DeepLabCut™ is an efficient method for 2D and 3D markerless pose estimation based on transfer learning with deep neural networks that achieves excellent results (i.e. you can match human labeling accuracy) with minimal training data (typically 50-200 frames). | Python | Yes | Open Source | [website](https://www.mackenziemathislab.org/deeplabcut) |
+| BIIGLE | BIIGLE is a web service for the efficient and rapid annotation of still images and videos. It was built for marine environmental monitoring and exploration but can be used for any image and video annotation task. | Online platform | Yes | Open Source | [website](https://biigle.de) [github](https://github.com/biigle) |
 
 
 
