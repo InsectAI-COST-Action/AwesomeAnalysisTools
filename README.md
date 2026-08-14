@@ -179,6 +179,7 @@ Each tool has a **Tags** column indicating its main area of use. A tool may carr
 | DeepLabCut | CV | DeepLabCut™ is an efficient method for 2D and 3D markerless pose estimation based on transfer learning with deep neural networks that achieves excellent results (i.e. you can match human labeling accuracy) with minimal training data (typically 50-200 frames). | Python | Yes | Open Source | [website](https://www.mackenziemathislab.org/deeplabcut) |
 | VGG Image Annotator (VIA) | CV | A simple and standalone manual annotation software for image, audio and video. VIA runs in a web browser and does not require any installation or setup. | JavaScript | Yes | Open Source | [website](https://gitlab.com/vgg/via-suite/via) |
 | Roboflow | CV | Platform for building computer vision models — image/video annotation, dataset management and model training ("AI that sees and understands the physical world"). | Web-based | Yes | Freeware and paid | [website](https://roboflow.com/) |
+| BIIGLE | CV | BIIGLE is a web service for the efficient and rapid annotation of still images and videos. It was built for marine environmental monitoring and exploration but can be used for any image and video annotation task. | Online platform | Yes | Open Source | [website](https://biigle.de) [github](https://github.com/biigle) |
 
 
 
