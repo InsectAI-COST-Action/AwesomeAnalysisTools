@@ -1,4 +1,4 @@
-# 🐞 Awesome Analysis Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+﻿# 🐞 Awesome Analysis Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of available tools for the exploration and analysis of biodiversity records. The focus here is on data collected via traditional monitoring methods and data from computer vision-based monitoring systems. However, many of the tools listed can be more broadly applied. 
 
@@ -113,6 +113,7 @@ Each tool has a **Tags** column indicating its main area of use. A tool may carr
 |:----------|:-----|:------------|:---------------------|:----------|:-------------|:------|
 | taxize | General | R package. Interacts with a suite of web application programming interfaces (API) for taxonomic tasks, such as getting database specific taxonomic identifiers, verifying species names, getting taxonomic hierarchies, fetching downstream and upstream taxonomic names, getting taxonomic synonyms, converting scientific to common names and vice versa, and more. | R | Yes | Open Source | [website](https://cran.r-project.org/web/packages/taxize/index.html) |
 | GBIF | Monitoring | GBIF—the Global Biodiversity Information Facility—is an international network and data infrastructure funded by the world's governments and aimed at providing anyone, anywhere, open access to data about all types of life on Earth. | Database | Yes | - | [website](https://www.gbif.org/) |
+| VisionSetil | CV | Educational web tool for identifying Iberian macromycetes from multi-view photos, with open-set rejection and an encyclopaedia of 523 taxa. Orientation only — never consumption permission. Open catalogue CC BY 4.0. | Web-based | Yes | - | [website](https://visionsetil.com) |
 | Pl@ntNet | CV | Online tool that helps you to identify plants with pictures. | Web-based | Yes | Freeware | [website](https://identify.plantnet.org/) |
 | ObsIdentify | CV, Monitoring | App and website to identify species from photos and keep your photos and observations organized. | Mobile app | Yes | Freeware | [website](https://observation.org/apps/obsidentify/) |
 | taxharmonizexplorer | General | Shiny app developed to help users of taxonomic information better understand the links that exist between taxonomic reference databases, R packages that manipulate taxonomy, and both of them. | Shiny app | Yes | - | [website](https://mgrenie.shinyapps.io/taxharmonizexplorer/) |
