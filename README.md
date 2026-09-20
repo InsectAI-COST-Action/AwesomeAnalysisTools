@@ -67,6 +67,7 @@ Each tool has a **Tags** column indicating its main area of use. A tool may carr
 
 
 ## 1.3. General Data Processing Tools
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — record & replay AI coding-agent runs offline.
 
 | Tool Name | Tags | Description | Programming language | Available | Open Source? | Links |
 |:----------|:-----|:------------|:---------------------|:----------|:-------------|:------|
