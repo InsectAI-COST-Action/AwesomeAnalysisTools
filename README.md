@@ -86,6 +86,7 @@ Each tool has a **Tags** column indicating its main area of use. A tool may carr
 | Tool Name | Tags | Description | Programming language | Available | Open Source? | Links |
 |:----------|:-----|:------------|:---------------------|:----------|:-------------|:------|
 | Leaflet | General | Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps. | API/JavaScript/R | Yes | Open Source | [website](https://leafletjs.com/) |
+| KoreAves | Monitoring | Free, noncommercial web atlas for South Korean birds with region-based occurrence evidence, species comparisons, and links to original data sources; records are not abundance estimates. | Web app | Yes | Not specified | [website](https://koreaves.com/) |
 | Google Earth Engine | Monitoring, General | A cloud-based platform that allows you to extract remote sensing-based environmental variables—such as NDVI, land-use, latitude etc around your sampling points. | JavaScript/Python | Yes | Freeware | [website](https://earthengine.google.com/) |
 | exploratory.io| General | Exploratory Desktop provides a Simple and Easy-to-Use UI experience to access various data sources, clean and transform data, visualize and analyze data to gain deeper insights, communicate your discoveries with Notes, and monitor your business metrics with Dashboards. | Desktop app | Variable | Free for academic use | [website](https://exploratory.io/) |
 
