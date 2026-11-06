@@ -4,6 +4,8 @@ A curated list of available tools for the exploration and analysis of biodiversi
 
 Contributions are welcome! Please check the [contribution guidelines](#contributing) below.
 
+**Related InsectAI resources:** You may also be interested in the [InsectAI Model Zoo](https://insectai-cost-action.github.io/model-db/), a collection of AI models for insect monitoring, and the [InsectAI Hardware Database](https://github.com/InsectAI-COST-Action/hardware-db), which brings together hardware resources relevant to insect monitoring.
+
 See also [Awesome InsectAI](https://github.com/InsectAI-COST-Action/awesome-insectai) for a curated list of papers, datasets, code, and pretrained models related to insect detection, classification, and monitoring using AI and deep learning.!
 
 ## Table of Contents
